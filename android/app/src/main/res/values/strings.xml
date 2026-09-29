@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cricket Scorebook</string>
+    <string name="title_activity_main">Cricket Scorebook</string>
+    <string name="package_name">com.cricketscorebook.app</string>
+    <string name="custom_url_scheme">com.cricketscorebook.app</string>
+</resources>
